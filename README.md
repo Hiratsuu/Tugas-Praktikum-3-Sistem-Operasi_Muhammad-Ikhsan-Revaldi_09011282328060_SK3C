@@ -45,7 +45,7 @@ dengan menggunakan command **"chown -v root februari"** kita dapat mengubah kepe
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan 
 nilai default-nya ?
 ### Jawab: 
-dengan menggunakan command line **"umask** untuk menampilkan nilai deafult dari umask tersebut. lalu, untuk mengubah nilai umask maka kita bisa menggunakan **"umask 027"**. ![step 9[(https://github.com/Hiratsuu/Tugas-Praktikum-3-Sistem-Operasi_Muhammad-Ikhsan-Revaldi_09011282328060_SK3C/blob/main/Tugas%20praktikum%203/step%209.png?raw=true)
+dengan menggunakan command line **"umask** untuk menampilkan nilai deafult dari umask tersebut. lalu, untuk mengubah nilai umask maka kita bisa menggunakan **"umask 027"**. ![step 9](https://github.com/Hiratsuu/Tugas-Praktikum-3-Sistem-Operasi_Muhammad-Ikhsan-Revaldi_09011282328060_SK3C/blob/main/Tugas%20praktikum%203/step%209.png?raw=true)
 
 10.  Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah 
 list perhatikan berapa link yang terjadi ?
